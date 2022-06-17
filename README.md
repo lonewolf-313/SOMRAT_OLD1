@@ -1,1 +1,3 @@
 # SOMRAT_OLD1
+
+cd SOMRAT_OLD1
